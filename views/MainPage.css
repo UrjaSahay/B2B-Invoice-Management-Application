@@ -1,0 +1,55 @@
+div{
+    background-color:#112349;
+  }
+  .division2{
+    background-color:#112349 ;
+  }
+  .logo {
+    height: 50px;
+    pointer-events: none;
+    background-color: #112349;
+  }
+  .companylogo{
+    height:30px;
+  }
+  .header{
+    color:aliceblue;
+  }
+  .invoice{
+    color:aliceblue;
+  }
+  button{
+     color:honeydew;
+     border-color:black;
+     border-radius:1px;
+   }
+  .button {
+    float: left;
+    width: 10%;
+    height:35px;
+    padding: 5px;
+    background:grey;
+    color:grey;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+  }
+  .searchinput{
+    padding: 5px;
+    height:24px;
+    font-size: 15px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
